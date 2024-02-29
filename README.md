@@ -182,7 +182,7 @@ root@baranov:/home/baranovsa#
 
 ```
 
-![monitoring]()
+![monitoring](https://github.com/12sergey12/12.1-Kubernetes_kubectl/blob/main/images/12.1-1-microk8s_status.png)
 
 
 3. Сгенерировать сертификат для подключения к внешнему ip-адресу.
@@ -265,7 +265,7 @@ Forwarding from [::1]:10443 -> 8443
 Handling connection for 10443
 Handling connection for 10443
 ```
-![monitoring]()
+![monitoring](https://github.com/12sergey12/12.1-Kubernetes_kubectl/blob/main/images/12.1-dashboard.png)
 
 ------
 
